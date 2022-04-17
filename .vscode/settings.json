@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "First/src/类的多态",
         "First/src/java基本流程结构",
-        "First/src/类的多态"
+        "First/src/数组学习"
     ]
 }
