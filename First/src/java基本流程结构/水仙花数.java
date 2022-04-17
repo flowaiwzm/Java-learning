@@ -1,4 +1,4 @@
-package java基本流程结构;
+// package java基本流程结构;
 
 public class 水仙花数 {
     public static void main(String[] args) {

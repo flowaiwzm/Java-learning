@@ -1,4 +1,4 @@
-package java基本流程结构;
+// package java基本流程结构;
 
 public class while循环 {
     public static void main(String[] args) {

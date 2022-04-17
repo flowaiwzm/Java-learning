@@ -1,4 +1,4 @@
-package java基本流程结构;
+// package java基本流程结构;
 import java.util.Scanner;
 public class 数据输入 {
     public static void main(String[] args) {

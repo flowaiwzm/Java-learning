@@ -1,4 +1,4 @@
-package java基本流程结构;
+// package java基本流程结构;
 import java.util.Random;
 import java.util.Scanner;
 public class Random类 {

@@ -1,4 +1,4 @@
-package java基本流程结构;
+
 
 public class 不死圣柜 {
     public static void main(String[] args) {

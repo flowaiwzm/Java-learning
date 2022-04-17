@@ -1,4 +1,4 @@
-package java基本流程结构;
+// package java基本流程结构;
 
 public class 选择语句 {
     public static void main(String[] args) {
